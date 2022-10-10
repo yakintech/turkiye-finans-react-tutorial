@@ -1,0 +1,33 @@
+JS Import - Export
+https://javascript.info/import-export
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+
+
+Reactjs Ext for VSCODE
+dsznajder.es7-react-js-snippets
+
+
+
+* Component isimleri büyük harf olmak zorunda
+* jsx elementleri parent bir elementle sarmallanmak zorundadır. ( Fragment)
+https://reactjs.org/docs/fragments.html
+
+
+JS Object
+https://www.w3schools.com/js/js_objects.asp
+
+React jsx
+https://reactjs.org/docs/introducing-jsx.html
+https://reactjs.org/docs/jsx-in-depth.html
+
+
+Js Arrow Functions
+https://www.w3schools.com/js/js_arrow_function.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+
+React Styling
+https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/
+
+
+
