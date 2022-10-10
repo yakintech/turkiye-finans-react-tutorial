@@ -30,4 +30,7 @@ React Styling
 https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/
 
 
+PropTypes
+https://www.freecodecamp.org/news/how-to-use-proptypes-in-react/
+
 
