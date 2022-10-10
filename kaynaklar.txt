@@ -34,3 +34,7 @@ PropTypes
 https://www.freecodecamp.org/news/how-to-use-proptypes-in-react/
 
 
+JS Filter and Find
+https://www.w3schools.com/jsref/jsref_filter.asp
+https://www.w3schools.com/jsref/jsref_find.asp
+

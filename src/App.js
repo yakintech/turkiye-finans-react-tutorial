@@ -1,20 +1,11 @@
-import ClickComp from "./propsSample/ClickComp"
-import UserProfile from "./propsSample/UserProfile";
+import StateArraySample2 from "./stateSample/StateArraySample2"
+
 
 function App() {
 
-  const merhaba = () => {
-    alert('Hello PROPS!!')
-  }
-
-
-  const calc = (price) => {
-    alert(price * 1.18);
-  }
 
   return (<>
-    {/* <ClickComp hello={merhaba} calc={calc}></ClickComp> */}
-    <UserProfile name='Çağatay'/>
+    <StateArraySample2></StateArraySample2>
   </>)
 
 
