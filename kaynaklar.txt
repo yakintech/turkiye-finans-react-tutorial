@@ -46,4 +46,10 @@ https://www.w3schools.com/jsref/jsref_find.asp
 JS Spread
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 
+API URL
+https://northwind.vercel.app/
+
+Template Literal
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
 

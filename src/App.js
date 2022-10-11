@@ -1,11 +1,9 @@
-import ProductPage from "./stateSample/ProductPage"
-
+import Suppliers from "./fetchSample/Suppliers"
 
 function App() {
 
-
   return (<>
-      <ProductPage/>
+    <Suppliers/>
   </>)
 
 
