@@ -1,9 +1,10 @@
-import Suppliers from "./fetchSample/Suppliers"
+import ToDoList from "./axiosSample/ToDoList"
+
 
 function App() {
 
   return (<>
-    <Suppliers/>
+    <ToDoList />
   </>)
 
 

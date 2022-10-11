@@ -52,4 +52,8 @@ https://northwind.vercel.app/
 Template Literal
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 
+JSON VIEWER PRO Exthttps://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
 
+
+Understanding the key prop
+https://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js
