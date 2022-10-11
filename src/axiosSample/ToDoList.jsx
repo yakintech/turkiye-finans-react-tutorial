@@ -1,5 +1,6 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom';
 
 
 
@@ -35,6 +36,7 @@ function ToDoList() {
                             <td>{item.id}</td>
                             <td>{item.userId}</td>
                             <td>{item.title}</td>
+                            <td><Link to={'/todos/' + item.id}>Go to Detail</Link></td>
                         </tr>
                     })
                 }
