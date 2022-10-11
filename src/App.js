@@ -1,11 +1,11 @@
-import StateArraySample2 from "./stateSample/StateArraySample2"
+import ProductPage from "./stateSample/ProductPage"
 
 
 function App() {
 
 
   return (<>
-    <StateArraySample2></StateArraySample2>
+      <ProductPage/>
   </>)
 
 

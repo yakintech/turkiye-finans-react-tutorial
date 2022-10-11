@@ -1,3 +1,7 @@
+FakeFiller
+https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo
+
+
 JS Import - Export
 https://javascript.info/import-export
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
@@ -37,4 +41,9 @@ https://www.freecodecamp.org/news/how-to-use-proptypes-in-react/
 JS Filter and Find
 https://www.w3schools.com/jsref/jsref_filter.asp
 https://www.w3schools.com/jsref/jsref_find.asp
+
+
+JS Spread
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
 
